@@ -1,7 +1,7 @@
 
 # Zuriel Chieke 👩🏽‍💻
 
-**Frontend Engineer | Web Developer **
+**Frontend Engineer | Web Developer**
 
 I am a frontend engineer passionate about building clean, user-friendly, and responsive web interfaces.
 My focus is on translating ideas and designs into functional, accessible, and visually appealing web applications.
