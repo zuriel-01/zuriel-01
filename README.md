@@ -1,16 +1,73 @@
-## Hi there 👋
 
-<!--
-**zuriel-01/zuriel-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Zuriel Chieke 👩🏽‍💻
 
-Here are some ideas to get you started:
+**Frontend Engineer | Web Developer (Front-End Focused)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a frontend engineer passionate about building clean, user-friendly, and responsive web interfaces.
+My focus is on translating ideas and designs into functional, accessible, and visually appealing web applications.
+
+
+## 🚀 Tech Stack
+
+**Languages & Frameworks**
+
+* HTML
+* CSS
+* JavaScript
+* React
+
+**Tools & Platforms**
+
+* Git & GitHub
+* VS Code
+* Figma
+
+---
+
+## 📌 Featured Projects
+
+### SolarView
+
+**Repository:** [https://github.com/zuriel-01/solarview](https://github.com/your-username/solarview)
+A web-based solar energy monitoring and visualization application designed to simulate real-time solar performance and household energy usage.
+
+**Key Highlights**
+
+* Interactive dashboards
+* Energy usage visualization
+* Clean, responsive UI
+
+
+### MyFitnessPal Demo
+
+**Repository:** [https://github.com/zuriel-01/myfitnesspaldemo](https://github.com/your-username/myfitnesspaldemo)
+A frontend recreation of the MyFitnessPal interface focused on layout accuracy, responsive design, and UI/UX fidelity.
+
+**Key Highlights**
+
+* Pixel-accurate UI recreation
+* Mobile-friendly layout
+* Built with modern frontend practices
+
+
+## 📈 GitHub Stats
+
+```
+https://github-readme-stats.vercel.app/api?username=zuriel-01&show_icons=true&theme=radical
+```
+
+
+
+---
+
+## 📬 Connect With Me
+
+**LinkedIn:**
+[https://www.linkedin.com/in/chieke-zuriel-7b6274253/](https://www.linkedin.com/in/chieke-zuriel-7b6274253/)
+
+**Email:**
+[zuriel.chieke@stu.cu.edu.ng](mailto:zuriel.chieke@stu.cu.edu.ng)
+
+---
+
+
