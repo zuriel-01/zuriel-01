@@ -50,13 +50,6 @@ A frontend recreation of the MyFitnessPal interface focused on layout accuracy, 
 * Built with modern frontend practices
 
 
-## 📈 GitHub Stats
-
-```
-https://github-readme-stats.vercel.app/api?username=zuriel-01&show_icons=true&theme=radical
-```
-
-
 
 ---
 
